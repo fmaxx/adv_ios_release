@@ -4,21 +4,44 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/FmaxTestAdvertisingSdk-Swift.h</key>
+		<data>
+		kgr54yjTo71hQOBjiKZReqnAhsg=
+		</data>
 		<key>Headers/FmaxTestAdvertisingSdk.h</key>
 		<data>
 		OiYCmAO1jFc/+nCpc8Ba/XHJwVY=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		2yHNCbH6q7FbHqw4idUz/1ud0zk=
+		fC8Ij/DSYxM3WAE+JVECb9DUG1w=
+		</data>
+		<key>Modules/FmaxTestAdvertisingSdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<data>
+		fKubdl4ZooT7PMTTenB+Zd5+dTg=
+		</data>
+		<key>Modules/FmaxTestAdvertisingSdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<data>
+		NfzfM0aocYzi61vYrdvSFwHEizQ=
+		</data>
+		<key>Modules/FmaxTestAdvertisingSdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<data>
+		qqS9mqtplzt3dP/4hocEnFuEqDA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		4gJSsEatmhmMngLV+pOcCyLERyE=
+		haVmmw2Q+nHOS0P/NrLJB+7HDDA=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/FmaxTestAdvertisingSdk-Swift.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D4DB9sriPvk1Jc8RPeoQpZD3RL6zcKTbuOwyl1FHLjE=
+			</data>
+		</dict>
 		<key>Headers/FmaxTestAdvertisingSdk.h</key>
 		<dict>
 			<key>hash2</key>
@@ -26,11 +49,32 @@
 			qHrREY1awn0Tn1iyjCdsaqRZZ6tyW4sSN2PH4fk7qrE=
 			</data>
 		</dict>
+		<key>Modules/FmaxTestAdvertisingSdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			K1GXdvQsEzF8Oslwue2PNw65WytPQsYeb2cIigBRmfY=
+			</data>
+		</dict>
+		<key>Modules/FmaxTestAdvertisingSdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			v40ByC470q0krVqznhSJEV5DWe5elGzboVO5fD7At+U=
+			</data>
+		</dict>
+		<key>Modules/FmaxTestAdvertisingSdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/Um8sg66gr7vmdxIP5lYDVuuYOr8lUGr63fDcxtGqYI=
+			</data>
+		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iniPD78Tr6mXpQeS5BgrQ1txT2t71ZGoIodKRhWKFFQ=
+			3+oU0JRtBNmDNWYg788aHmMK+ES5ryVP5uiGCg2YiXw=
 			</data>
 		</dict>
 	</dict>

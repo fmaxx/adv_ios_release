@@ -4,3 +4,8 @@ framework module FmaxTestAdvertisingSdk {
   export *
   module * { export * }
 }
+
+module FmaxTestAdvertisingSdk.Swift {
+    header "FmaxTestAdvertisingSdk-Swift.h"
+    requires objc
+}
