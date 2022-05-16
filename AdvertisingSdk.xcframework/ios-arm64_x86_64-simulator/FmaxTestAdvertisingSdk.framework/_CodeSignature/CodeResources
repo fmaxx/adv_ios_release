@@ -4,77 +4,33 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/AdvertisingSdk-Swift.h</key>
+		<key>Headers/FmaxTestAdvertisingSdk.h</key>
 		<data>
-		s69iu2cMcw3ZhO5SpHH5eWZfZL0=
-		</data>
-		<key>Headers/AdvertisingSdk.h</key>
-		<data>
-		/gf6fXI4Rud+LREEoOA1z2/B+B0=
+		OiYCmAO1jFc/+nCpc8Ba/XHJwVY=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Q+YXoLWgmpLoJI4nYjs2F9H9yY4=
-		</data>
-		<key>Modules/AdvertisingSdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
-		<data>
-		c1TaTKvc7MBad0ccC96+C8IYCVM=
-		</data>
-		<key>Modules/AdvertisingSdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
-		<data>
-		k2QeW8b15/Dpni7yPHZEF7DTDT4=
-		</data>
-		<key>Modules/AdvertisingSdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
-		<data>
-		vTkHG2Z/I+io+LbUFYb2hhy+SSo=
+		2yHNCbH6q7FbHqw4idUz/1ud0zk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		yXKmmSVSwrlS9khgu/NYLaJvhBM=
+		4gJSsEatmhmMngLV+pOcCyLERyE=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/AdvertisingSdk-Swift.h</key>
+		<key>Headers/FmaxTestAdvertisingSdk.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1Zh2IayktH/VkQXuQZ1/omM0NA0o5Ch4D4ciuwij1Og=
-			</data>
-		</dict>
-		<key>Headers/AdvertisingSdk.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			iK/LJRsFvtaLms8hW2g62Nijq0B4WihL0q4vVGNzwic=
-			</data>
-		</dict>
-		<key>Modules/AdvertisingSdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			hukFyu+jWngcueMbW8pMEikUarvzqTbbiAisjCPxHuY=
-			</data>
-		</dict>
-		<key>Modules/AdvertisingSdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			z9ImuD4IZiRdiRCsGJvSHj5lqiAySU2OzEsqQj7ZU84=
-			</data>
-		</dict>
-		<key>Modules/AdvertisingSdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Lio6NTSpHmmU90+Asv7AnSvx02zjk1DzNn4XTqwayzo=
+			qHrREY1awn0Tn1iyjCdsaqRZZ6tyW4sSN2PH4fk7qrE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h4cQ9/C5ckAKp6rgOmJ561hwz0rzTF97/D4zjeAulmA=
+			iniPD78Tr6mXpQeS5BgrQ1txT2t71ZGoIodKRhWKFFQ=
 			</data>
 		</dict>
 	</dict>

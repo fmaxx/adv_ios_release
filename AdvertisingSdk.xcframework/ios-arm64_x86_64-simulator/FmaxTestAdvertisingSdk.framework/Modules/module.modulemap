@@ -1,0 +1,6 @@
+framework module FmaxTestAdvertisingSdk {
+  umbrella header "FmaxTestAdvertisingSdk.h"
+
+  export *
+  module * { export * }
+}
