@@ -1,0 +1,11 @@
+framework module AdvertisingSdk {
+  umbrella header "AdvertisingSdk.h"
+
+  export *
+  module * { export * }
+}
+
+module AdvertisingSdk.Swift {
+    header "AdvertisingSdk-Swift.h"
+    requires objc
+}
