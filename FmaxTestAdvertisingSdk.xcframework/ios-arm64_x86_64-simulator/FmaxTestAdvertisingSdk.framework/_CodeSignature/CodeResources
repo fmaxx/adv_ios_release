@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/FmaxTestAdvertisingSdk-Swift.h</key>
 		<data>
-		L4erb0P3EJTgetP5eWcoje7hel0=
+		rGyf1gZNfS1o/mX0JWjhWz5/CcU=
 		</data>
 		<key>Headers/FmaxTestAdvertisingSdk-umbrella.h</key>
 		<data>
@@ -14,43 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		LCl1ZITJkMUEhtH//c8S03Y80kU=
+		S7sOy6pedUz4YryMN4tNUChjq+E=
 		</data>
 		<key>Modules/FmaxTestAdvertisingSdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		QrYlpUjZo07yiHHyyiCAajQwOPo=
+		9dO7FUgoWq+NLgZ6HeIE8VEXbuQ=
 		</data>
 		<key>Modules/FmaxTestAdvertisingSdk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		T1BmfT7sh/vPAfq1ENFJ/2S9ljE=
+		rLlUz7yrn154smaHXQUtBG6FaxA=
 		</data>
 		<key>Modules/FmaxTestAdvertisingSdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		liHCRgQl9MDhdp1RKr5LM05Z04M=
-		</data>
-		<key>Modules/FmaxTestAdvertisingSdk.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
-		<data>
-		GBTwCwqzx877amxKgHEOZVTEjqo=
-		</data>
-		<key>Modules/FmaxTestAdvertisingSdk.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
-		<data>
-		63KBHpseGA6yF1rTzp2UOGoKfCA=
-		</data>
-		<key>Modules/FmaxTestAdvertisingSdk.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
-		<data>
-		G92aRQwNWaFoCu3Wb7jnmOUTpIk=
+		O/HGZCqE7cG3+rXZf25dcY0QkrM=
 		</data>
 		<key>Modules/FmaxTestAdvertisingSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		RUbuqmsLESgdeT5OjP4sB6EVXuk=
+		HNhaCl/tz7+8ZOeAcs//AGATHhA=
 		</data>
 		<key>Modules/FmaxTestAdvertisingSdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		fixgExAYtQ5dmWLMIm55FrP0JNw=
+		J/LG+F283YZa5Jo6JrAE2iS/u5U=
 		</data>
 		<key>Modules/FmaxTestAdvertisingSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		0GZKnYBuYlj+Ojha+8jadeG2ut0=
+		EdzxHEwgaA4uzgEAapB9S1nn1iw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,21 +49,13 @@
 	<dict>
 		<key>Headers/FmaxTestAdvertisingSdk-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			L4erb0P3EJTgetP5eWcoje7hel0=
-			</data>
 			<key>hash2</key>
 			<data>
-			vTQq1/nsU0kq7Oi9SogrXvT2Dy8iteFn9hgR5zHIQyA=
+			LushSB1If2is1XwDFOUTU4Z8mY3W3J7+4lMLpH+m4ZQ=
 			</data>
 		</dict>
 		<key>Headers/FmaxTestAdvertisingSdk-umbrella.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Wn4u7ZLTDWqJhr0iMPTrjjcHzDY=
-			</data>
 			<key>hash2</key>
 			<data>
 			Ryh5X28JMIi49KNi01gtAKGSshHvXBUelhhstpIIsjo=
@@ -83,109 +63,48 @@
 		</dict>
 		<key>Modules/FmaxTestAdvertisingSdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QrYlpUjZo07yiHHyyiCAajQwOPo=
-			</data>
 			<key>hash2</key>
 			<data>
-			epcMgow1vrWTbGuiKNFGOplzNnuV8BvsN1OPyLRl8PA=
+			BRmHuM8xcGGWAJTsFFzhbN/CXyuefO5n0TWu0F+mNsg=
 			</data>
 		</dict>
 		<key>Modules/FmaxTestAdvertisingSdk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			T1BmfT7sh/vPAfq1ENFJ/2S9ljE=
-			</data>
 			<key>hash2</key>
 			<data>
-			bPV2SrDYTHfc1Yw4/Ao2PwMlvij3QvIIgD1aJ1to8GA=
+			8OwOPPwfBkxMdDysvJM4xv2+JRXtEnr/+k88nlg/2oo=
 			</data>
 		</dict>
 		<key>Modules/FmaxTestAdvertisingSdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			liHCRgQl9MDhdp1RKr5LM05Z04M=
-			</data>
 			<key>hash2</key>
 			<data>
-			NpETUKmU2kAbkFfw5ci1optrZAJNK9RRvMyzejGXfxs=
-			</data>
-		</dict>
-		<key>Modules/FmaxTestAdvertisingSdk.swiftmodule/i386-apple-ios-simulator.swiftdoc</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			GBTwCwqzx877amxKgHEOZVTEjqo=
-			</data>
-			<key>hash2</key>
-			<data>
-			quC8sNwOdKu7Z4nmZSwzSEWsAmVQAahNBPxDDn9hp20=
-			</data>
-		</dict>
-		<key>Modules/FmaxTestAdvertisingSdk.swiftmodule/i386-apple-ios-simulator.swiftinterface</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			63KBHpseGA6yF1rTzp2UOGoKfCA=
-			</data>
-			<key>hash2</key>
-			<data>
-			q5+OQrzTe74GzPXZPd3ds2Q7lFifJ5ueChFITA5QwX8=
-			</data>
-		</dict>
-		<key>Modules/FmaxTestAdvertisingSdk.swiftmodule/i386-apple-ios-simulator.swiftmodule</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			G92aRQwNWaFoCu3Wb7jnmOUTpIk=
-			</data>
-			<key>hash2</key>
-			<data>
-			tfjoBtYGpBgqk2SjrUkDWHvqB0Ez+9VxnCC5U3q1QkA=
+			gSpvpm1U7+m8MyX5WrrsVoi9Fs21x0qTjHhp6KrbNvs=
 			</data>
 		</dict>
 		<key>Modules/FmaxTestAdvertisingSdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			RUbuqmsLESgdeT5OjP4sB6EVXuk=
-			</data>
 			<key>hash2</key>
 			<data>
-			iNTy/+ExJhsEb+kbMpFENb5f36tsZCCylj5I8bHCcdM=
+			kZT8jMYM0QbnnFEBLKYI+3tSLQsljTEqguW51ZX9T14=
 			</data>
 		</dict>
 		<key>Modules/FmaxTestAdvertisingSdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			fixgExAYtQ5dmWLMIm55FrP0JNw=
-			</data>
 			<key>hash2</key>
 			<data>
-			5kNMMvIf1r/CLF90EwpC8icjviC3t4bjklh0TE7D1zU=
+			iU3KjmUF0RljNUGCa42603XqS3v+gZEwDDSEZqrA3Zc=
 			</data>
 		</dict>
 		<key>Modules/FmaxTestAdvertisingSdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			0GZKnYBuYlj+Ojha+8jadeG2ut0=
-			</data>
 			<key>hash2</key>
 			<data>
-			rNsXV1DXdVVIe47STm8Ni4Ya3cWxYzWZX1drw1f9WBA=
+			8KujkIL0bmi/EsjN4xJihxEqXidnxz6DyhSfRKdWjgc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ZKHXyiFCasIwB9NREAlfG/lg4b0=
-			</data>
 			<key>hash2</key>
 			<data>
 			giWznr1gRpc1GEP0bwr7Hup9Yfp3z/XmiF5E1U1kKco=
