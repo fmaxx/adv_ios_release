@@ -1,5 +1,5 @@
 framework module FmaxTestAdvertisingSdk {
-  umbrella header "FmaxTestAdvertisingSdk.h"
+  umbrella header "FmaxTestAdvertisingSdk-umbrella.h"
 
   export *
   module * { export * }
